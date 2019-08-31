@@ -1,0 +1,18 @@
+{
+	"name": "Inazuma-Eleven-config",
+	"folder": "/home/",
+	"destination": "/home/",
+	"nameCriteria": "inazuma",
+	"ignoreCase": false,
+	"nameCriteriaRegex": false,
+	"extension": ".mp4",
+	"prefix": "",
+	"episodeCriteria": "(\\d{3}|\\d{2}|\\d)",
+	"seasonCriteria": "_(\\d{2}|\\d)_",
+	"renameSafely": true,
+	"matchSeason": false,
+	"seasonLeader": " season ",
+	"episodeLeader": " episode ",
+	"nameLeader": "Inazuma Eleven",
+	"newExtension": false
+}
